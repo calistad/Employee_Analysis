@@ -8,7 +8,7 @@ Help a company better understand their employee structure by conducting 3 data a
   
 - Identify employees who are more likely to leave, and then the company could design new methods to retain those employees.
 
-## 1.Employees for Retirement
+## 1. Employees for Retirement
 
 ### Approach
 Eligible employees for retirement with the most recent titles.
@@ -26,7 +26,7 @@ Total number of retiring employees.
 
 - The company still has about 70% of its employees left.
 
-## 2.Employees for Mentorship Program
+## 2. Employees for Mentorship Program
 
 ### Findings
 Total number of eligible employees for mentorship.
@@ -43,7 +43,7 @@ Thus, employees with the following requirements could be eligible for mentoring:
 - Started to work in the company between 1980 to 2000, which should have enough experience for mentoring;
 - Still work in the company.
 
-## 3.Employees who tend to leave
+## 3. Employees who tend to leave
 
 ### Exploratory data analysis
 

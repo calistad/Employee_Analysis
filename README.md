@@ -1,7 +1,7 @@
 # Employee_Analysis
 
 ## Overview
-Help a company better understand their employee structure by conducting 3 data analyses.
+Help a company better understand their employee status by conducting 3 data analyses.
 - Determine employees who are eligible for retirement.
   
 - Select employees who are qualified for the mentorship program.

@@ -47,7 +47,7 @@ Thus, employees with the following requirements could be eligible for mentoring:
 
 ### Exploratory data analysis
 
-Perform exploratory data analysis through various visualizations to understand the features that mostly cause employees to leave.
+- Perform exploratory data analysis through various visualizations to understand the features that mostly cause employees to leave.
 
 `EmployeeCount`, `Standardhours`, and `Over18` are not effective, since they do not change from one employee to another.
 
@@ -74,10 +74,6 @@ Strongly Correlated:
 
 ![3](https://user-images.githubusercontent.com/88747464/188317762-1eb4204c-30db-44c3-a17a-9a82ff19c6fb.png)
 
-*Younger* employees tend to leave, most are around 29 - 31 years old.
-
-![4](https://user-images.githubusercontent.com/88747464/188317768-0aff6711-aa2f-4b32-8ccc-eb26bb216e45.png)
-
 Employees who tend to leave are:
 - Sales Representatives
 - Single
@@ -86,6 +82,10 @@ Employees who tend to leave are:
 ![5](https://user-images.githubusercontent.com/88747464/188317776-9ddc93c5-04f9-4b9a-88ea-402bb68843a8.png)
 
 ![7](https://user-images.githubusercontent.com/88747464/188317783-a302bdee-0fac-495c-8577-cdd14f797b68.png)
+
+Younger employees tend to leave, most are around 29 - 31 years old.
+
+![4](https://user-images.githubusercontent.com/88747464/188317768-0aff6711-aa2f-4b32-8ccc-eb26bb216e45.png)
 
 The longer distance from home, the fewer employees work in the company.
 
@@ -101,9 +101,9 @@ They also have the lowest monthly income compared to the other jobs, this might 
 
 ![9](https://user-images.githubusercontent.com/88747464/188317806-d1aa44e3-d532-4908-a5de-e5e71cd12592.png)
 
-### Deep Learning Models
+### Deep Learning Model
 
-Conduct a deep learning model to classify employees most likely to leave.
+- Conduct a deep learning model to classify employees most likely to leave.
 
 **Model Summary**
 
